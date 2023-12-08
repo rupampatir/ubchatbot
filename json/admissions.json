@@ -1,0 +1,481 @@
+[{
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions.html",
+    "qas": [
+    {
+        "question": "What graduate degrees does the Department of Computer Science and Engineering (CSE) offer?",
+        "answer": "The Department of Computer Science and Engineering (CSE) offers two graduate degrees: PhD in Computer Science and Engineering and MS in Computer Science and Engineering."
+    },
+    {
+        "question": "How are first-year students admitted into the MS or PhD program in CSE?",
+        "answer": "First-year students may be admitted into either the MS or the PhD program. Normally, students with a master's degree in computer science and engineering (and some other students upon the recommendation of the Graduate Admissions Committee) are admitted directly into the PhD program."
+    },
+    {
+        "question": "How are advisors assigned to students upon admission?",
+        "answer": "Upon admission, students are assigned an advisor. This advisor is not necessarily the \"major professor\" for the MS project or thesis or the PhD dissertation. Students can request a change of advisor at any time. It is recommended that students and advisors meet at least once each semester to review the student's progress and course of study."
+    },
+    {
+        "question": "What are the contact details for Roger He, one of the authors?",
+        "answer": "Roger He's contact details are as follows:\n- Name: Xin (Roger) He, PhD\n- PhD: The Ohio State University\n- Department: Computer Science and Engineering\n- School: School of Engineering and Applied Sciences\n- Office: 318 Davis Hall\n- Phone: (716) 645-4741\n- Email: xinhe@buffalo.edu"
+    },
+    {
+        "question": "Who is the Director of Graduate Admissions and what are their contact details?",
+        "answer": "The Director of Graduate Admissions is Junsong Yuan, PhD. His contact details are as follows:\n- Name: Junsong Yuan, PhD\n- PhD: Northwestern University\n- Department: Computer Science and Engineering\n- School: School of Engineering and Applied Sciences\n- Office: 338H Davis Hall\n- Phone: (716) 645-0562\n- Email: jsyuan@buffalo.edu"
+    },
+    {
+        "question": "Who are the Graduate Academic Coordinators for the Department of Computer Science and Engineering?",
+        "answer": "The Graduate Academic Coordinators for the Department of Computer Science and Engineering are Kaileigh Kosicki and Ann Mangan. Their contact details are as follows:\n- Kaileigh Kosicki:\n  - MS: Canisius College\n  - Office: 338Q Davis Hall\n  - Phone: (716) 645-2087\n  - Email: kh66@buffalo.edu\n- Ann Mangan:\n  - MS: Walden University\n  - Office: 338Q Davis Hall\n  - Phone: (716) 645-0945\n  - Email: annmanga@buffalo.edu"
+    },
+    {
+        "question": "What are the application deadlines for fall and spring admission?",
+        "answer": "The application deadlines are as follows:\n- Fall Admission:\n  - Early consideration for special scholarships: December 10\n  - Full consideration for funding/fellowships: December 31\n- Spring Admission:\n  - Domestic applicants: October 31\n  - International applicants: September 30"
+    },
+    {
+        "question": "Who is the Interim Director of Graduate Admissions for the Graduate Office?",
+        "answer": "The Interim Director of Graduate Admissions for the Graduate Office is Dr. Roger He, located at 318 Davis Hall."
+    },
+    {
+        "question": "Who serves as the Co-Director of Graduate Studies for the Graduate Office?",
+        "answer": "The Co-Directors of Graduate Studies for the Graduate Office are Dr. Oliver Kennedy, located at 211 Capen Hall, and Dr. Ifeoma Nwogu, located at 305 Davis Hall."
+    },
+    {
+        "question": "Who are the Graduate Academic Coordinators for the Graduate Office?",
+        "answer": "The Graduate Academic Coordinators for the Graduate Office are Kaileigh Kosicki, located at 338Q Davis Hall, and Ann Mangan, located at 338M Davis Hall."
+    },
+    {
+        "question": "How can prospective students contact the Graduate Office for questions?",
+        "answer": "Prospective students can contact the Graduate Office with their questions at gradeng@buffalo.edu."
+    },
+    {
+        "question": "How can current students contact the Graduate Office for questions?",
+        "answer": "Current students can contact the Graduate Office with their questions at csegradcoord@buffalo.edu."
+    }
+    ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/application-materials.html",
+    "qas": [
+        {
+          "question": "What documents are required in the online application packet for graduate admissions?",
+          "answer": "The online application packet for graduate admissions requires the following documents:\n- Application Form\n- Application Fee\n- Personal Statement\n- College Transcripts\n- Letters of Recommendation\n- GRE Scores\n- English Language Proficiency Requirements (for International Students only)\n- Financial Form (for International Students only)"
+        },
+        {
+          "question": "How can the application fee be paid?",
+          "answer": "The application fee of $85 per degree can be paid online with a credit card or e-check."
+        },
+        {
+          "question": "What is required in the Personal Statement for the application?",
+          "answer": "The Personal Statement should briefly describe your background and your academic and career goals. There is a space provided in the online application for you to type your personal statement."
+        },
+        {
+          "question": "What is the requirement for submitting College Transcripts?",
+          "answer": "Copies of transcript(s) for all post-secondary schoolwork must be uploaded with the online application for initial review. Upon the offer of admission, accepted applicants will be required to submit official transcripts and proof of degree(s), in English, with the school seal."
+        },
+        {
+          "question": "How many Letters of Recommendation are required, and who should provide them?",
+          "answer": "For PhD applicants, three (3) letters of recommendation are required. For MS applicants and UB undergraduates, two (2) letters of recommendation are required. The letters can be requested through the online application by providing the recommenders' names and e-mail addresses. While letters from professional sources are accepted, letters from professors who are acquainted with your academic interests, achievements, and abilities are strongly preferred."
+        },
+        {
+          "question": "Is the GRE required for all graduate applications?",
+          "answer": "CSE requires the GRE for MS applications. The GRE is not required to apply to the PhD program. Current UB undergraduates can have the GRE waived for the MS."
+        },
+        {
+          "question": "What are the English Language Proficiency Requirements for international students?",
+          "answer": "International applicants must demonstrate English proficiency in addition to meeting the standard academic criteria. All international students must take one of the specified English proficiency tests and meet the university's minimum score requirement. A competitive TOEFL iBT score for their programs is at least 90. Test scores should be provided to UB CSE using Institution Code 2925 and Department Code 78. It is recommended to take the test early in the year to ensure timely reporting of results before the application deadline."
+        },
+        {
+          "question": "What is the Financial Form requirement for international students?",
+          "answer": "International applicants must fill out the International Applicant Financial Form labeled 'Standard Graduate' for the appropriate academic year. The Financial Form and supporting bank documents may be uploaded to the application after an admissions decision has been made. A completed financial statement is required, documenting necessary funds for each year of intended study (two years for a master's program; five years for a PhD program). Original financial documents must be presented in person upon arrival at UB or orientation."
+        },
+        {
+          "question": "Who are the authors of this information?",
+          "answer": "The authors of this information are Junsong Yuan and Kaileigh Kosicki. Their contact details are as follows:\n- Junsong Yuan, PhD\n  - PhD: Northwestern University\n  - Department: Computer Science and Engineering\n  - School: School of Engineering and Applied Sciences\n  - Office: 338H Davis Hall\n  - Phone: (716) 645-0562\n  - Email: jsyuan@buffalo.edu\n- Kaileigh Kosicki, MS\n  - MS: Canisius College\n  - Department: Computer Science and Engineering\n  - School: School of Engineering and Applied Sciences\n  - Office: 338Q Davis Hall\n  - Phone: (716) 645-2087\n  - Email: kh66@buffalo.edu"
+        },
+        {
+          "question": "How should application materials be submitted?",
+          "answer": "All application materials should be submitted electronically with the online application. Postal mail submissions are not accepted. Applicants can verify that UB has received all of their supporting documents by periodically checking the UB Interactive Graduate Application Site."
+        }
+      ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/admissions/faq.html",
+    "qas": [
+        {
+          "question": "How do I apply to the CSE graduate program?",
+          "answer": "The online application form for the CSE graduate program is available on the CSE website."
+        },
+        {
+          "question": "Who is eligible to apply?",
+          "answer": "Applicants are expected to have earned a BS degree by the time they register in the CSE graduate program. The admission process is highly competitive, and applicants are expected to have a strong background in computer science, math, or engineering."
+        },
+        {
+          "question": "What is the application deadline?",
+          "answer": "For Fall 2023 semester admission, all online materials and supporting documentation must be received by CSE by December 31, 2022. Early decision scholarship deadlines are December 10, 2022."
+        },
+        {
+          "question": "Do you admit students for the spring semester?",
+          "answer": "Yes, students are admitted for the spring semester. Domestic applicants have an application deadline of October 31, while international applicants have a deadline of September 30."
+        },
+        {
+          "question": "How do I pay the application fee?",
+          "answer": "The application fee of $85 per degree can be paid online with a credit card or by sending a check or money order in the amount of $85 in US funds (made payable to 'State University of New York at Buffalo') to the provided address."
+        },
+        {
+          "question": "If I applied previously but my application was rejected, may I reapply?",
+          "answer": "Yes, you may reapply, but you will need to fill out a completely new online application."
+        },
+        {
+          "question": "Are the application procedures for MS and PhD programs different?",
+          "answer": "No, the application procedures for the MS and PhD programs are the same. You need to choose your program on the first page of the online application form."
+        },
+        {
+          "question": "If I already have a PhD in another field, may I apply for a PhD in CSE?",
+          "answer": "Yes, if you have a PhD in a field other than Computer Science and Engineering, you may still apply for a PhD in CSE at UB."
+        },
+        {
+          "question": "Can I send/upload copies of awards, papers, or any other supporting documents to supplement my application?",
+          "answer": "Yes, the online application system allows you to upload up to five (5) extra documents/files if you find it necessary to include them. Please do not send hard copies of these documents."
+        },
+        {
+          "question": "I will be applying before I finish the fall term. Should I update my application with a new transcript that includes my fall term grades?",
+          "answer": "No, you cannot update your application once submitted, and it is not necessary to update it with your fall term grades."
+        },
+        {
+          "question": "May I apply to more than one department at the same time?",
+          "answer": "Yes, you may apply to more than one department. Each department's admission process is independent, and a separate fee is required for each application. However, you can only enroll in one department."
+        },
+        {
+          "question": "Do you have financial aid and/or assistantship positions available in your department?",
+          "answer": "The CSE Department offers financial aid to PhD students in the form of Teaching Assistantships, Research Assistantships, and Fellowships. Most PhD students are supported if funding is available, and there is no need to submit separate financial aid or scholarship forms."
+        },
+        {
+          "question": "Do individual faculty members offer financial assistantships?",
+          "answer": "No, financial funding offers are made by the department's Graduate Admissions Committee, and applicants should not contact individual faculty members for financial assistance."
+        },
+        {
+          "question": "What are the university and department codes for the GRE?",
+          "answer": "The university code is 2925, and the GRE department code is 0402. Test scores should be sent to the university using these codes."
+        },
+        {
+          "question": "When do the GRE scores expire?",
+          "answer": "GRE scores must be from a valid exam taken within five (5) years of the entry date. Expired scores will not be considered."
+        },
+        {
+          "question": "What are the minimum GRE scores required for admission?",
+          "answer": "While there is no strict minimum score, applicants are expected to score around 309/340 (or 1250/1600 using the prior scale) for Verbal+Quantitative and 4.0/6.0 for Analytical components. The average score of recently admitted applicants is about 316/340 (or 1300/1600) and 4.0/6.0."
+        },
+        {
+          "question": "What is the minimum GPA required for admission?",
+          "answer": "There is no strict minimum GPA requirement, but applicants are expected to have a GPA higher than 3.0 on a 4.0 scale. The average GPA of admitted applicants is around 3.4 on a 4.0 scale."
+        },
+        {
+          "question": "What criteria do the Graduate Admissions Committee use during evaluations?",
+          "answer": "The Admissions Committee considers the whole application package when evaluating applicants, including grades in relevant coursework, a personal statement, letters of recommendation, GRE and TOEFL scores, overall GPA, and other elements such as research experience and publication record."
+        },
+        {
+          "question": "What preparation in computer science and related fields is required for admission into the graduate program?",
+          "answer": "While an undergraduate degree in computer science or engineering is not required, applicants are expected to have completed coursework in computer science, math, or logic equivalent to specific requirements, which are detailed in the provided information."
+        },
+        {
+          "question": "Do you admit an applicant without an MS degree directly into your PhD program?",
+          "answer": "Yes, it is possible to be admitted to the PhD program without an MS degree, although having an MS degree is highly recommended."
+        },
+        {
+          "question": "Can I learn my chance of being accepted prior to submitting an application?",
+          "answer": "No, a pre-evaluation of your chance of acceptance cannot be provided. You need to fill out an application and submit all required information for review."
+        },
+        {
+          "question": "If I am already enrolled in a graduate program at another university, how can I enter into your PhD program?",
+          "answer": "To enter the PhD program, you must submit a regular online application with all required supporting materials by the specified deadline."
+        },
+        {
+          "question": "I am enrolled in a graduate program at another university. Can I transfer credits when I join your program?",
+          "answer": "Yes, you can transfer some of your graduate credits. The Director of Graduate Studies and the Graduate School will review your request for transferring credits once you are admitted to the program. Details can be found in the CSE Graduate Student Handbook."
+        },
+        {
+          "question": "My school does not use the same grading scale as UB. What should I enter in the academic section?",
+          "answer": "Please enter the grades as shown on your transcript(s), and your grades and GPA will be evaluated based on a grading conversion scale."
+        },
+        {
+          "question": "May I send a personal letter to a faculty member with whom I wish to work?",
+          "answer": "It is discouraged to send generic personal letters and resumes to individual faculty members before submitting an application. Once admitted to the program, you can contact individual faculty members to discuss your research interests."
+        },
+        {
+          "question": "Where can I learn about CSE faculty and their research interests?",
+          "answer": "You can learn about CSE faculty and their research interests from the Faculty Directory and departmental Research Areas on the CSE website."
+        },
+        {
+          "question": "Once I apply, how do I check the status of my application?",
+          "answer": "CSE does not send notifications to acknowledge the receipt of applications or supporting documents. Applicants can log in to the UB Interactive Graduate Application Site at any time to check the status of their applications."
+        },
+        {
+          "question": "When will I be notified whether I have been admitted?",
+          "answer": "PhD admission decisions are usually made at the end of February, with letters mailed by mid-March. MS admission decisions are typically made by mid-March, and letters are mailed by the end of March."
+        },
+        {
+          "question": "I am accepted. What do I need to do now?",
+          "answer": "Once accepted, you will receive an official offer letter from the department. To accept the offer, sign and return the enclosed 'Letter of Intent' by the specified deadline. Complete the Next Steps for New Students checklist for important information regarding course registration procedures and other university details."
+        },
+        {
+          "question": "What are the university and department codes for TOEFL?",
+          "answer": "The university code is 2925, and the TOEFL department code is 78. Applicants should ensure that ETS sends electronic copies of their scores to the university."
+        },
+        {
+          "question": "When do the TOEFL scores expire?",
+          "answer": "TOEFL scores must be from a valid exam taken within two (2) years of the entry date. Expired scores will not be considered."
+        },
+        {
+          "question": "What are the minimum TOEFL/IELTS/PTE/CAE/CPE scores required for admission?",
+          "answer": "The minimum requirements for various English language proficiency tests (TOEFL, IELTS, PTE, CAE, CPE) are specified, and international applicants must complete one of these exams to meet the requirement."
+        },
+        {
+          "question": "I am an international student currently studying within the US. Can the TOEFL/IELTS exam requirement be waived?",
+          "answer": "International students transferring from another US institution to UB (with a break of no more than one year) who met UB's minimum requirements and had a valid TOEFL/IELTS score at the start of their studies at the previous institution are automatically waived of the English language proficiency requirement."
+        },
+        {
+          "question": "I am an international applicant and earned a degree from a US institute. Can the TOEFL exam requirement be waived?",
+          "answer": "If you have received a degree from a US institute prior to joining the program without a lapse in studies, the TOEFL exam requirement is waived by the Graduate School, and the department can submit a petition for a waiver if you are offered admission."
+        },
+        {
+          "question": "What is the Financial Form?",
+          "answer": "The Financial Form is required for all international applicants and must be completed. It documents necessary funds for each year of intended study (two years for the MS program; five years for the PhD program) and can be uploaded after an admissions decision is made."
+        },
+        {
+          "question": "Where does the I-20 come from?",
+          "answer": "The I-20 is sent from the UB Office of International Admissions and not from the Department of Computer Science and Engineering."
+        },
+        {
+          "question": "When should I expect my I-20?",
+          "answer": "The I-20 typically takes about six weeks for processing. To expedite your application, submit all required documentation, including your passport bio page, financial form, and application fee, as early as possible."
+        },
+        {
+          "question": "I am an accepted international student. What do I need to do now?",
+          "answer": "Accepted international students must submit various materials, including the UB Graduate School International Applicant Financial Form, original financial documents, passport bio-page, current I-20 form, and current Visa if already studying in the USA."
+        }
+      ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/academic-advisement.html",
+    "qas": [
+        {
+          "question": "What academic advisement services does the CSE Graduate Office provide?",
+          "answer": "The CSE Graduate Office provides academic advisement services."
+        },
+        {
+          "question": "Who are the CSE graduate academic coordinators?",
+          "answer": "The CSE graduate academic coordinators are Kaileigh Kosicki and Ann Mangan."
+        },
+        {
+          "question": "What can the CSE graduate academic coordinators assist with?",
+          "answer": "The CSE graduate academic coordinators can help with CSE graduate academic advisement questions, course registration, and necessary paperwork for timely graduation."
+        },
+        {
+          "question": "How can I contact the CSE graduate academic coordinators?",
+          "answer": "You can contact the CSE graduate academic coordinators by sending an email to csegradcoord@buffalo.edu."
+        },
+        {
+          "question": "Who typically helps MS students among the CSE graduate academic coordinators?",
+          "answer": "Dan typically helps MS students among the CSE graduate academic coordinators."
+        },
+        {
+          "question": "Who typically helps PhD students among the CSE graduate academic coordinators?",
+          "answer": "Kaileigh typically helps PhD students among the CSE graduate academic coordinators."
+        },
+        {
+          "question": "Who are the CSE graduate directors?",
+          "answer": "The CSE graduate directors are Junsong Yuan, Oliver Kennedy, and Ifeoma Nwogu."
+        },
+        {
+          "question": "What kind of questions can the CSE graduate directors answer?",
+          "answer": "The CSE graduate directors can answer special consideration requests and non-standard questions."
+        },
+        {
+          "question": "How can I contact the CSE graduate directors?",
+          "answer": "You can contact the CSE graduate directors by using the provided contact information."
+        }
+      ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/degrees-and-programs.html",
+    "qas": [
+        {
+          "question": "What graduate programs are offered in Computer Science and Engineering?",
+          "answer": "You can choose from a Computer Science and Engineering PhD, a Computer Science and Engineering MS, special joint academic programs degrees, or advanced certificates."
+        },
+        {
+          "question": "What are the career prospects for a PhD in Computer Science and Engineering?",
+          "answer": "A PhD in Computer Science and Engineering can lead to a career in academia or industrial research. Graduates have earned tenure-track faculty positions, led technology firms, started innovative startups, and become thought leaders in their fields."
+        },
+        {
+          "question": "How does an MS in Computer Science and Engineering benefit one's career?",
+          "answer": "An MS in Computer Science and Engineering deepens knowledge in computer science and enhances employability. It often leads to better professional employment opportunities and higher salaries."
+        },
+        {
+          "question": "What is the focus of a PhD with a Concentration in Cognitive Science?",
+          "answer": "A PhD with a Concentration in Cognitive Science explores how the mind works, including its conceptual organization and computational and neural infrastructure."
+        },
+        {
+          "question": "What does the MS in Computational Linguistics program involve?",
+          "answer": "The MS in Computational Linguistics is a joint curriculum between the Department of Computer Science and Engineering and the Department of Linguistics. It results in a Master's in Natural Sciences."
+        },
+        {
+          "question": "What degrees are available in Geographic Information Science at the University at Buffalo?",
+          "answer": "The University at Buffalo offers doctoral and master's degree concentrations in Geographic Information Science, an interdisciplinary field that combines research in environmental science, social science, and engineering."
+        },
+        {
+          "question": "What is the focus of the Advanced Certificate in Computational Science?",
+          "answer": "The Advanced Certificate in Computational Science provides training in advanced scientific computing along with specialized education in traditional disciplines of science and engineering."
+        },
+        {
+          "question": "What is the goal of the Advanced Certificate in Cybersecurity program?",
+          "answer": "The Advanced Certificate in Cybersecurity aims to provide students at UB with a comprehensive understanding of various aspects of computer security, which is crucial given the rapid growth of the Internet and the need for secure information channels and systems."
+        }
+      ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/scholarships-fellowships-assistantships-and-awards.html#title_160907141",
+    "qas": [
+        {
+          "question": "What are scholarships and assistantships for graduate students?",
+          "answer": "Scholarships and assistantships are available to attract and support graduate students who have demonstrated exceptional academic performance and potential."
+        },
+        {
+          "question": "What do these awards typically include?",
+          "answer": "These awards may include full or partial tuition scholarships and often include a stipend. They are designed to enable students to concentrate on coursework and/or research."
+        },
+        {
+          "question": "Where can I find information about scholarships, fellowships, and awards from the School of Engineering and Applied Sciences?",
+          "answer": "You can find more information about scholarships, fellowships, and awards from the School of Engineering and Applied Sciences [here](https://engineering.buffalo.edu/home/academics/grad/scholarships.html)."
+        },
+        {
+          "question": "What are some external scholarship programs for graduate students?",
+          "answer": "Some external scholarship programs for graduate students include:\n1. [Fulbright Programs](http://www.iie.org/en/Fulbright)\n2. [National Center for Women & Information Technology (NCWIT) Collegiate Award](https://www.aspirations.org/participate/collegiate-award)\n3. [NSF Graduate Research Fellowship Program](http://www.nsfgrfp.org/)\n4. [NSF-Integrative Graduate Education and Research Training (NSF-IGERT) in Ecosystem Restoration](http://www.erie.buffalo.edu/)\n5. [NSF-Integrative Graduate Education and Research Training (NSF-IGERT) in Geographic Information Science](http://lesami.geog.buffalo.edu/projects/completed/nsf-igert-integrative-geographic-information-science-traineeship-project/)\n6. [UB Graduate School Fellowships & Scholarships](https://grad.buffalo.edu/explore/funding/fellowships.html)\n7. [UB Office of Fellowships and Scholarships](https://www.buffalo.edu/fellowships.html)\n8. [Western New York Prosperity Fellowship Program](https://www.buffalo.edu/entrepreneurship/programs/wny-prosperity.html)"
+        },
+        {
+          "question": "What is the focus of assistantships offered by CSE for PhD students?",
+          "answer": "CSE offers financial aid to PhD students through Teaching Assistantships (TAs), Research Assistantships (RAs), and Fellowships. Their intention is to support most of their PhD students if funding is available."
+        },
+        {
+          "question": "Where can I find details about assistantship employment?",
+          "answer": "You can find details about assistantship employment [here](/computer-science-engineering/graduate/scholarships-fellowships-assistantships-and-awards/assistantship-information.html)."
+        },
+        {
+          "question": "What is the annual PhD student awards competition hosted by the department?",
+          "answer": "The department hosts an annual PhD student awards competition."
+        },
+        {
+          "question": "Where can I see the award winners of the annual PhD student awards competition?",
+          "answer": "You can see the award winners of the annual PhD student awards competition [here](/computer-science-engineering/people/hall-of-fame/students/cse-graduate-student-award-recipients.html)."
+        },
+        {
+          "question": "How can I navigate back to the top of the page?",
+          "answer": "You can navigate back to the top of the page by clicking [here](#skip-to-content)."
+        }
+      ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/scholarships-fellowships-assistantships-and-awards/assistantship-information.html",
+    "qas": [
+        {
+          "question": "What is Assistantship Information?",
+          "answer": "Assistantship Information provides details about various aspects of assistantships and scholarships for graduate students in the School of Engineering and Applied Sciences.",
+          "link": null
+        },
+        {
+          "question": "What is Tuition Scholarship?",
+          "answer": "Tuition scholarship recipients must be enrolled as full-time students. The scholarship can be applied only toward your tuition; graduate fees are not covered. To obtain your tuition scholarship, you can download and complete the [Graduate Tuition Remission/Scholarship Verification form](http://www.buffalo.edu/content/dam/engineering/home/GraduateStudents/Forms/GraduateTuitionRemissionForm.pdf). If you have less than nine credit hours remaining for degree completion in the MS program, you can download and complete the [Certification of Full-Time Status for Master's Students form](https://grad.buffalo.edu/content/dam/grad/study/cert-fts-masters.pdf). If you are a full-time PhD student taking less than nine credits, download and complete the [Certification of Full-Time Status for Doctoral Students form](https://grad.buffalo.edu/content/dam/grad/study/cert-fts-doctoral.pdf).",
+          "link": null
+        },
+        {
+          "question": "What is Health Insurance?",
+          "answer": "The stipend plus tuition qualifies you to purchase a health insurance plan that covers illness and injury. The State provides a contribution of 90% for individual coverage and 75% for dependent coverage. A network of participating physicians has been developed across the State to attend to the health care needs of eligible Graduate and Teaching Assistants. The cost of this insurance plan and all other university fees are not covered by your scholarship.",
+          "link": null
+        },
+        {
+          "question": "What is Union?",
+          "answer": "Your assistantship falls within the State University of New York Graduate Student Negotiating Unit (GSNU) and, as such, is represented for the purposes of collective negotiations by the Graduate Student Employees Union/Communications Workers of America Local 1104. Employees in this bargaining unit are engaged in professional activities of such a nature that the output produced or the result accomplished often cannot be precisely measured in relation to a given period of time. It is therefore anticipated that there will be fluctuations above and below these general expectations. Your professional activities will generally relate to your program of study.",
+          "link": null
+        },
+        {
+          "question": "Where can I find more information about Graduate Student Employee Union (GSEU)?",
+          "answer": "You can find more information about Graduate Student Employee Union (GSEU) [here](http://www.buffalo.edu/administrative-services/for-faculty-staff/benefits/state/gseu.html).",
+          "link": "http://www.buffalo.edu/administrative-services/for-faculty-staff/benefits/state/gseu.html"
+        },
+        {
+          "question": "Where can I find more information about Graduate Student Negotiating Unit (GSNU)?",
+          "answer": "You can find more information about Graduate Student Negotiating Unit (GSNU) [here](https://www.suny.edu/hr/contracts/html/gsnu/).",
+          "link": "https://www.suny.edu/hr/contracts/html/gsnu/"
+        }
+      ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/resources-for-current-students.html",
+    "qas": [
+        {
+            "question": "Graduate Handbook",
+            "answer": "The Graduate Handbook includes policies and procedures related to graduate study in the Department of Computer Science and Engineering. All students should be aware of the contents of this manual as they progress through their academic careers in CSE. Any exceptions to these policies and procedures must be approved by the Department Chairperson or the Director of Graduate Studies.",
+            "link": "https://www.buffalo.edu/content/dam/engineering/computer-science-engineering/graduate/resources-for-current-students/graduate-handbooks/grad-handbook-2023.pdf"
+        },
+        {
+            "question": "Graduate Student Career Guide",
+            "answer": "The Graduate Student Career Guide, developed to specifically meet the ever-changing needs of today's graduate students, provides advice and resources to prepare students for their first professional or academic position. This guide covers all aspects of the process from the job search, the application process, interviewing, and how to negotiate when a job offer is made. Students seeking additional or more personalized guidance may request an appointment with the Career Services Office.",
+            "link": "https://www.buffalo.edu/career/jobs/graduate-guide.html"
+        },
+        {
+            "question": "Policies",
+            "answer": "Here are some relevant policies:\n1. CSE Academic Integrity Policy\n   - Link: /computer-science-engineering/information-for-students/graduate-program/cse-graduate-academic-policies/cse-academic-integrity-policy.html\n   - Date: 1/10/22\n2. IT Policies\n   - Link: /computer-science-engineering/information-for-students/graduate-program/cse-graduate-academic-policies/it-policies.html\n   - Date: 1/11/22\n3. SEAS Policies for SEAS Grad Students\n   - Link: https://engineering.buffalo.edu/home/academics/grad/policies.html\n   - Date: 1/10/22\n4. UB Graduate School Policy Library\n   - Link: https://www.buffalo.edu/grad/succeed/current-students/policy-library.html\n   - Date: 1/10/22",
+            "link": null
+        },
+        {
+            "question": "Dr. Demirbas's Research, Writing, and Career Advice",
+            "answer": "Murat Demirbas, CSE professor and former CSE Graduate Director, offers friendly and helpful Research, Writing, and Career Advice.",
+            "link": "https://muratbuffalo.blogspot.com/2020/06/research-writing-and-career-advice.html"
+        },
+        {
+            "question": "Dr. Rapaport's Information for Grad Students",
+            "answer": "Bill Rapaport, CSE Eminent Professor Emeritus and former CSE Graduate Director, offers friendly advice, encouragement, and mentorship in his classic Information for Grad Students.",
+            "link": "https://cse.buffalo.edu/~rapaport/GRAD/"
+        },
+        {
+            "question": "Info For Students",
+            "answer": "Our Info for Students page offers a comprehensive dashboard of helpful resources (it's available at the top right corner of every page on the CSE website).",
+            "link": "/computer-science-engineering/information-for-students.html"
+        }
+    ]
+}, { 
+    "webpage": "https://engineering.buffalo.edu/computer-science-engineering/graduate/experiential-learning.html",
+    "qas": [
+        {
+          "question": "What is Experiential Learning?",
+          "answer": "Experiential learning gives you substantial preparation to enter the scientific and engineering professions and helps you explore future career options. Many program graduates credit these experiences with giving them a competitive advantage during job searches and a smoother transition to full-time employment.",
+          "link": null
+        },
+        {
+          "question": "How does Experiential Learning enhance academic learning through real-world experience?",
+          "answer": "No specific answer text found.",
+          "link": null
+        },
+        {
+          "question": "What are CSE Experiential Learning Initiatives - Internships?",
+          "answer": "You'll earn hands-on, real-world experience by taking internships at companies related to your major.",
+          "link": "https://www.buffalo.edu/computer-science-engineering/information-for-students/experiential-learning/internships.html"
+        },
+        {
+          "question": "What are Professional and Student Organizations in the context of Experiential Learning?",
+          "answer": "We strongly encourage you to join one or more professional and student organizations. These groups are supportive, collegial, and purpose-driven. They're ideal environments to find new friends and build your professional network.",
+          "link": "https://www.buffalo.edu/computer-science-engineering/people/professional-and-student-organizations.html"
+        },
+        {
+          "question": "What are SEAS Experiential Learning Initiatives - Engineering Intramurals?",
+          "answer": "An engineering intramural is any problem-based extracurricular engineering activity that provides an authentic (i.e., “real-world”) learning experience for students.",
+          "link": "https://www.buffalo.edu/home/academics/beyond/elp/intramurals.html"
+        },
+        {
+          "question": "What are SEAS Experiential Learning Initiatives - Internships and Co-Ops?",
+          "answer": "Students are eligible to earn academic credit for internships and co-ops that may fulfill degree requirements.",
+          "link": "https://www.buffalo.edu/home/academics/beyond/elp/internships.html"
+        },
+        {
+          "question": "What are SEAS Experiential Learning Initiatives - Shared Instrumentation Laboratories?",
+          "answer": "UB’s Science and Engineering Equipment and Instrumentation Portal (EQUIP) of Shared Facilities provides cost-effective access to precision laboratories, tools and equipment for electronic device development, and the study and analysis of materials.",
+          "link": "https://www.buffalo.edu/home/industry/shared-labs.html"
+        },
+        {
+          "question": "What is Tinkering in the context of SEAS Experiential Learning Initiatives?",
+          "answer": "Tinkering is the first step in the ELP continuum. Students pursue self-led, hands-on practice as a precursor to being involved in more significant activities.",
+          "link": "https://www.buffalo.edu/home/academics/beyond/elp/tinkering.html"
+        }
+      ]
+}]

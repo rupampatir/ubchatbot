@@ -1,0 +1,31 @@
+version: "3.1"
+
+stories:
+
+- story: greet challenge
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- story: challenge
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- story: faculty details query
+  steps:
+  - intent: ask_faculty_details
+  - action: action_fetch_faculty_details
+
+- story: details query
+  steps:
+  - intent: ask_department_related
+  - action: action_fetch_info
+
+- story: course details query
+  steps:
+  - intent: ask_course_details
+  - action: action_fetch_course_info
+  

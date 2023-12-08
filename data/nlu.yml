@@ -1,0 +1,348 @@
+version: "3.1"
+
+nlu:
+
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: ask_faculty_details
+  examples: |
+    - I need information on [Professor Smith](faculty_name).
+    - Who is [Xi Tan](faculty_name)
+    - Can you tell me about [Dr. Johnson](faculty_name)?
+    - Details about [John Doe](faculty_name), please.
+    - Information regarding [Ms. Emily White](faculty_name).
+    - What do you know about [Mr. Alex Green](faculty_name)?
+    - Who is [Jane Brown](faculty_name)?
+    - Give me the profile of [Dr. Robert Frost](faculty_name).
+    - What is the research area of [Professor Karen Walter](faculty_name)?
+    - Can I get data on [Rachel Adams](faculty_name)?
+    - Tell me something about [Prof. Jonathan O'Reilly](faculty_name).
+    - Who is [Dr. Susan Blue](faculty_name)?
+    - Background of [Professor Michael Young](faculty_name)?
+    - I'm looking for info about [Dr. Alice Morgan](faculty_name).
+    - What can you tell me about [Professor David Lee](faculty_name)?
+    - Share details of [Dr. Sarah Black](faculty_name)'s work.
+    - Who is [Feng Wei](faculty_name)
+    - Mike Buckley
+    - Souma Chowdhury
+    - Adrienne Decker
+    - Yingjie Hu
+    - Kevin R. Keane
+    - Kevin Kwiat
+    - Zhen Liu
+    - Marianthi Markatou
+    - Maria Y. Rodriguez
+    - Ryan St. Pierre
+    - Matt Stock
+    - Yijun Sun
+    - Robert Sutor
+    - Charles Tirone
+    - Jun Xia
+    - Chi Zhou
+    - Jing Gao
+    - Steve Ko
+    - Dimitrios Koutsonikolas
+    - Shi Li
+    - Jingjing Meng
+    - Chris Proctor
+    - Lu Su
+    - Weihang Wang
+    - Laurence Boxer
+    - Chang Wen Chen
+    - Jan Chomicki
+    - Daniel Fischer
+    - Bharat Jayaraman
+    - Helene Kershner
+    - Anthony Ralston
+    - William Rapaport
+    - Peter Scott
+    - Stuart C. Shapiro
+    - Deborah Walters
+    - Aidong Zhang
+    - Nasrin Akhter
+    - Carl Alphonce
+    - Roshan Ayyalasomayajula
+    - Ethan Blanton
+    - Marina Blanton
+    - Varun Chandola
+    - Changyou Chen
+    - Zongchen Chen
+    - Karthik Dantu
+    - Sreyasee Das Bhattacharjee
+    - Murat Demirbas
+    - Paul Dickson
+    - David Doermann
+    - Mingchen Gao
+    - Venu Govindaraju
+    - Jesse Hartloff
+    - Tom Hayes
+    - Xin (Roger) He
+    - Matthew Hertz
+    - Andrew Hirsch
+    - Christopher Hoadley
+    - Hongxin Hu
+    - Alan Hunt
+    - Kaiyi Ji
+    - Zhanpeng Jin
+    - Kenneth Joseph
+    - Oliver Kennedy
+    - Matthew Knepley
+    - Tevfik Kosar
+    - Vishnu Lokhande
+    - Haonan Lu
+    - Kelin Luo
+    - Siwei Lyu
+    - Eric Mikida
+    - Russ Miller
+    - Ifeoma Nwogu
+    - Shamsad Parvin
+    - Chunming Qiao
+    - Bina Ramamurthy
+    - Nalini Ratha
+    - Ken Regan
+    - Atri Rudra
+    - A. Erdem Sariyuce
+    - Kris Schindler
+    - Ramalingam Sridhar
+    - Rohini Srihari
+    - Satish Tripathi
+    - Shambhu Upadhyaya
+    - Alina Vereshchaka
+    - Chen Wang
+    - Yaxiong Xie
+    - Jinjun Xiong
+    - Jinhui Xu
+    - Wenyao Xu
+    - Junsong Yuan
+    - Zhuoyue Zhao
+    - Ziming Zhao
+    - Lukasz (Luke) Ziarek
+    - Jaroslaw (Jaric) Zola
+    - Patricia J. Eberlein
+    - Herbert A. Hauptman
+    - Alan Selman
+    - Sargur (Hari) N. Srihari
+
+
+- intent: ask_department_related
+  examples: |
+    - What graduate degrees does the Department of Computer Science and Engineering offer?
+    - Can you tell me about the graduate degrees available in Computer Science and Engineering?
+    - How are first-year students admitted into the MS or PhD program in CSE?
+    - What is the process for first-year admissions into the CSE MS or PhD programs?
+    - How are advisors assigned to students upon admission?
+    - Can you explain how advisors are allocated to new students?
+    - What are the contact details for the Director of Graduate Admissions?
+    - How can I get in touch with the Director of Graduate Admissions?
+    - Who is the Director of Graduate Admissions and their contact details?
+    - Can you provide information about the Graduate Academic Coordinators for CSE?
+    - Who are the academic coordinators for CSE graduate students?
+    - What are the application deadlines for fall and spring admission?
+    - Could you tell me the deadlines for submitting fall and spring applications?
+    - Who is the Interim Director of Graduate Admissions for the Graduate Office?
+    - Can you tell me about the Co-Director of Graduate Studies for the Graduate Office?
+    - How can prospective students contact the Graduate Office for questions?
+    - What is the best way for current students to contact the Graduate Office?
+    - How should current students get in touch with the Graduate Office?
+    - What is the focus of the 'Artificial Intelligence' research category?
+    - What is the focus of the 'Systems' research category?
+    - What is the focus of the 'Theory' research category?
+    - What is the focus of the 'Interdisciplinary' research category?
+    - Can you provide an overview of the research areas in Computer Science and Engineering?
+    - What are some significant centers and institutes associated with AI research at the University at Buffalo?
+    - Can you list some of the research labs and groups in AI at the University at Buffalo?
+    - Who are some of the affiliated faculty in AI research at the University at Buffalo?
+    - What are the School/University Centers and Institutes at UB?
+    - What are the CSE Research Labs and Groups at UB?
+    - What is the Center for Unified Biometrics and Sensors (CUBS) at UB?
+    - What is the Center of Excellence for Document Analysis and Recognition (CEDAR) at UB?
+    - What is the UB Artificial Intelligence Institute (AII)?
+    - What is the UB Center for Cognitive Science (CCS)?
+    - What is the Artificial Intelligence Innovation Lab (A2IL) at UB?
+    - What is the UB Data Science Research Group?
+    - What is the UB Media Forensic Lab?
+    - What is the Visual Computing Lab at UB?
+    - What is X-Lab@UB?
+    - What is the Visual Computing Lab at the University at Buffalo?
+    - What are the specific areas of focus in databases and data science at UB?
+    - What is the Online Data Interactions (ODIn) Lab?
+    - What is the UB Data Science Research Group?
+    - What is the aim of Information Integrity research at UB?
+    - Who are some of the affiliated faculty in the field of Information Integrity at UB?
+    - What is the focus of research in Natural Language Processing at UB?
+    - What are the main foci in the area of Hardware and Software in Systems?
+    - What is the focus of research in Networking and Distributed Systems?
+    - What does research in Edge Computing and Embedded Systems involve?
+    - What is the focus of High-Performance Computing research?
+    - What are the research topics in Mobile Computing?
+    - What is the focus of Operating Systems research?
+    - What areas does Programming Language research cover?
+    - What are the main focus areas in Computer Architecture and Hardware at UB?
+    - What is the High Performance VLSI & System Architecture (HPVSA) Lab?
+    - What is the focus of research in Networking and Distributed Systems at UB?
+    - What is the Data-Intensive Distributed Computing Research Lab (DIDCLAB)?
+    - What does the Embedded Sensing and Computing Group specialize in?
+    - What is the focus of the Ubiquitous Computing Lab (UbiComp)?
+    - What is the focus of the DRONES Lab at the University at Buffalo?
+    - What are some notable publications from the DRONES Lab?
+    - Can you describe the Edge-SLAM project at the DRONES Lab?
+    - What is the WISDOM project at the DRONES Lab about?
+  
+- intent: ask_course_details
+  examples: |
+    - Can you tell me more about the course [CSE 510](course_code)?
+    - What topics are covered in [CSE 510LEC](course_code): Special Topic?
+    - What is the focus of the course '[Signals and Systems for Wireless Sensing](course_title)'?
+    - What does [CSE 510](course_code): Special Topic in Network Security cover?
+    - Does [CSE 510](course_code) fulfill PhD program requirements?
+    - Is [CSE 510](course_code) a part of the MS program requirements?
+    - When is [CSE 510](course_code) scheduled for [Spring 2024](semester)?
+    - What are the class timings for [CSE 510](course_code) in the upcoming semester?
+    - Who is teaching [CSE 510](course_code) in [Spring 2024](semester)?
+    - Can you provide information about the instructors for [CSE 510](course_code)?
+    - How many students are enrolled in [CSE 510](course_code) currently?
+    - What is the enrollment status for the [Network Security](course_title) special topic course?
+    - CSE 510LEC: Special Topic: Signals and Systems for Wireless Sensing
+    - CSE 521LEC: Operating Systems
+    - CSE 531LEC: Analysis of Algorithms I
+    - CSE 540LEC: Machine Learning and Society for majors
+    - CSE 546LEC: Reinforcement Learning
+    - CSE 548LEC: High Perform Computing 2
+    - CSE 555LEC: Introduction to Pattern Recognition
+    - CSE 560LEC: Data Models and Query Languages
+    - CSE 562LEC: Database Systems
+    - CSE 567LEC: Computational Linguistics
+    - CSE 568LEC: Robotics Algorithms
+    - CSE 573LEC: Introduction to Computer Vision and Image Processing
+    - CSE 574LEC: Introduction to Machine Learning
+    - CSE 578LEC: Computational Investment
+    - CSE 586LEC: Distributed Systems
+    - CSE 587LEC: Data Intensive Computing
+    - CSE 589LEC: Modern Network Concepts
+    - CSE 590LEC: Computer Architecture
+    - CSE 598TUT: Internship
+    - CSE 603LEC: Parallel and Distributed Processing
+    - CSE 611LEC: MS Project Development
+    - CSE 632LEC: Analysis of Algorithms II
+    - CSE 633LEC: Parallel Algorithms
+    - CSE 635LEC: Natural Language Processing and Text Mining
+    - CSE 666LEC: Biometrics Image Analysis
+    - CSE 674LEC: Advanced Machine Learning
+    - CSE 676LEC: Deep Learning
+    - CSE 700TUT: Independent Study
+    - CSE 701SEM: Seminars
+    - CSE 702SEM: Seminar: Analyzing Cognitive Tendencies From Chess Data
+    - CSE 704SEM: Seminar: Multiparty Languages
+    - CSE 706SEM: Seminar: Advanced Topics in Distributed Systems
+    - CSE 709SEM: Seminar: Green Computing and Sustainability
+    - CSE 711SEM: Seminar: Sports Video Analytics
+    - CSE 712SEM: Seminar: Microcontroller Systems Security
+    - CSE 799TUT: Supervised Research
+    - CSE 800TUT: Thesis Guidance
+    - CSE 501LEC: Introduction to Graduate Study in Computer Science I
+    - CSE 503LR: Computer Science for Non Majors
+    - CSE 505LEC: Fundamentals of Programming Languages
+    - CSE 518LEC: Software Security
+    - CSE 526LEC: Blockchain Application Development
+    - CSE 529LEC: Algorithms for Modern Computing Systems
+    - CSE 535LEC: Information Retrieval
+    - CSE 565LEC: Computer Security
+    - CSE 570LEC: Introduction to Parallel and Distributed Processing
+    - CSE 593LLB: Introduction to VLSI Electronics
+    - CSE 596LEC: Introduction to the Theory of Computation
+    - CSE 601LEC: Data Mining and Bioinformatics
+    - CSE 605LEC: Advanced Concepts in Programming Languages
+    - CSE 610LEC: Special Topic: Special Topics on Mobile Networking and Mobile Sensing
+    - CSE 662LEC: Languages and Runtimes for Big Data
+    - CSE 703SEM: Seminar: Deep Learning on Graphs
+    - CSE 705SEM: Seminars
+    - CSE 707SEM: Seminar: CSE 707: Wireless Networks Security, Principles and Practices
+    - CSE 708SEM: Seminars
+    - CSE 713SEM: Seminar: Conversational AI
+    - CSE 545LEC: Coding Theory
+    - CSE 714SEM: Seminar: Making technology to change people: Methods in HCI and UX design for human learning, collaboration,
+    - CSE 547LEC: High Performance Computing 1
+    - CSE 616LEC: Multiagent Systems
+    - CSE 667LEC: Advanced Topics in Computational Linguistics
+    - CSE 675LEC: Stochastic Simulation and Inference
+    - CSE 710SEM: Seminar: Wireless Networks
+    - CSE 577LEC: Processing of Strings and Sequences
+    - CSE 640LEC: Graph Mining and Management
+    - CSE 715SEM: Seminar: Special Topics in Biometrics and IoT Security
+    - CSE 730SEM: Seminar: Graph Orientations and their Applications
+    - CSE 528LEC: Introduction to Digital Image Processing
+    - CSE 580LEC: Computer Graphics
+    - CSE 673LEC: Computational Vision
+    - CSE 740SEM: Seminar: Connected and Autonomous Vehicles (CAVs)
+    - CSE 542LEC: Software Engineering Concepts
+    - CSE 696LEC: Computational Complexity
+    - CSE 718SEM: Seminar: Advanced Topics on Algorithmic Learning Theory
+    - CSE 522LEC: Object Oriented Analysis, Design and Implementation
+    - CSE 741SEM: Seminar: Selected Topics in Emerging Biometrics and IoT Security
+    - CSE 534LEC: Multimedia Systems
+    - CSE 664LEC: Applied Cryptography and Computer Security
+    - CSE 722SEM: Seminars
+    - CSE 727SEM: Seminar: Selected Topics on Internet of Things
+    - CSE 622LEC: Advanced Computer Systems
+    - CSE 728SEM: Seminar: Applications of Generative Adversarial Networks
+    - CSE 739SEM: Seminars
+    - CSE 749SEM: Seminar: Internet of Things (IOT) – Systems, security and applications perspective
+    - CSE 504LR: Computer Science for Non-Majors II
+    - CSE 566LEC: Wireless Networks Security
+    - CSE 668LEC: Advanced Robotics
+    - CSE 724SEM: Seminar: Database Systems for Data Quality and Curation
+    - CSE 729SEM: Seminar: CSE 729
+    - CSE 745SEM: Seminars
